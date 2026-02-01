@@ -1,1 +1,1 @@
-print("lastcore INSERT")
+print("lastcore UPDATE")
